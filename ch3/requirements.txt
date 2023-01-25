@@ -1,0 +1,12 @@
+● Ubuntu 16.04 LTS
+● CUDA 10.1
+● GPU V100 32GB
+● CPU Xeon E5-2698 v4 2.20GHz
+● Python 3.7.4
+● numpy 1.19.5
+● matplotlib 3.4.3 
+● Pillow 7.0.0
+● opencv 4.5.3.56 
+● PyTorch 1.7.1
+● Torchvision 0.8.2 
+● timm 0.6.2
